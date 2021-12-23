@@ -1,4 +1,4 @@
-name: Python script
+name: Build and Tests
 on: 
   push:
     branches:
